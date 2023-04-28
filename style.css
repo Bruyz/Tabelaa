@@ -1,0 +1,11 @@
+table tr th, table tr td{
+border: 0.2rem solid rgb(63, 14, 77);
+padding: 1rem;
+}
+
+table{
+    border-collapse: collapse;
+    background-color: rgb(243, 201, 253);
+}
+
+
